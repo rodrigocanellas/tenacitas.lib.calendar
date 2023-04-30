@@ -2,8 +2,6 @@
 #include <limits>
 
 #include <tenacitas.lib.calendar/cpt/chrono_convertible.h>
-#include <tenacitas.lib.concepts/cpt/id.h>
-#include <tenacitas.lib.concepts/cpt/printable.h>
 #include <tenacitas.lib.log/alg/logger.h>
 #include <tenacitas.lib.program/alg/options.h>
 #include <tenacitas.lib.test/alg/tester.h>
